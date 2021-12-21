@@ -1,4 +1,4 @@
-// Valderico Carratala Rizzo 48792178R
+// Valderico Carratala Rizzo
 
 
 #include <unistd.h>
