@@ -1,4 +1,4 @@
-## Valderico Carratala Rizzo 48792718R
+## Valderico Carratala Rizzo 
 
 set terminal png
 
