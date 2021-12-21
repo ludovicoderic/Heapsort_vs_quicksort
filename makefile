@@ -1,4 +1,4 @@
-## Valderico Carratala Rizzo 48792178R
+## Valderico Carratala Rizzo 
 
 OPTS = -Wall -O3 -std=c++0x
 
